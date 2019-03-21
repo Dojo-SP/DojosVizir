@@ -1,0 +1,8 @@
+Linguagens
+
+C#                    4
+Javascript            6   5
+Java                  2 
+Python                6   3
+PHP                   4
+ShellScript (Bash)    5
